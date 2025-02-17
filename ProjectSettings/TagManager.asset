@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - GaiNhon
+  - "S\u1EA5m s\xE9t"
+  - MangSong
+  - OverSquare
+  - XoaSet
+  - "C\u1ED5ng d\u1ECBch chuy\u1EC3n"
+  - GroundTrap
+  - GaHacAm
+  - VungCam
+  - Trap
+  - GaCon
+  - GaLua
+  - GaBeoBu
+  - KeyLV6
+  - LongGaLV6
+  - GaXanhLa
+  - Book
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

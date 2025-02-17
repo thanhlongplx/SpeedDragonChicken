@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5035526479876750031
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5588146383652512769}
+  - component: {fileID: 2094941946942676470}
+  m_Layer: 0
+  m_Name: showList
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5588146383652512769
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5035526479876750031}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 0.46507385, y: 0.4262346, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2094941946942676470
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5035526479876750031}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d8d2d3e384c09274589522bdf8bf6059, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  buttonLevelList: {fileID: 3760071119850442759, guid: 13c9adc34ebea3f47b386a71067efb2f, type: 3}
+  buttonLevel2inLevelList: {fileID: 3363093963016642930, guid: b6cf7f963e087fd47bc7e5d42f03438b, type: 3}
+  buttonLevel3inLevelList: {fileID: 187616170428788859, guid: 811b3dab9d3cfa0488efaf6050e62673, type: 3}
+  buttonLevel4inLevelList: {fileID: 2188343048110604653, guid: f3b78eed17efa6b4e94ebf41f3efa66b, type: 3}
+  buttonLevel5inLevelList: {fileID: 555628001221727895, guid: 3634db9c3a98c114ca746d7145e3cfe2, type: 3}
+  buttonLevel6inLevelList: {fileID: 5298512515259970505, guid: ac2bf270e0dee294c9ac3f0050609ac1, type: 3}
+  buttonLevel7inLevelList: {fileID: 6488323229715691253, guid: 0625fbc3d8243c1478265fb41de25d36, type: 3}
+  buttonLevel8inLevelList: {fileID: 523281826009095121, guid: 516278f520a18cc429f569034917d3c6, type: 3}
+  sceneName: 
